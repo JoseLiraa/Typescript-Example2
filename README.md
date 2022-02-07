@@ -1,6 +1,6 @@
 # Bootcamp-CoreCode 🚀
 
-## Typescript Example 1  🎯
+## Typescript Example 2  🎯
 ### Commands
 
 ```
